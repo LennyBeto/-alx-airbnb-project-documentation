@@ -37,3 +37,5 @@ The DFD clearly illustrates several key components:
 - Review acknowledgements
 
 ### Diagram Preview
+![data-flow](https://github.com/user-attachments/assets/1b60feff-245d-4d56-bd12-1f8ea5b3abeb)
+
